@@ -1,3 +1,5 @@
 Hello world!
 
-We start learning vrsion controls.
+*Курсив.*
+
+We start learning version controls.
