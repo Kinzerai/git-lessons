@@ -48,6 +48,12 @@ Partially **bold**.
 
 One more option of __partially bold__.
 
+## Italic text:
+To italicize text, add one asterisk or underscore before and after a word or phrase. 
+
+*Italicized text.*
+
+_Italicized text 2._
 
 
 
