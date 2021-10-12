@@ -62,5 +62,9 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 ~~Strikethrough text~~.
 
 
+## Different text styles:
+~~__*Text*__~~  (bold italic and crossed out)
+
+__*Text*__ (bold italic)
 
 
