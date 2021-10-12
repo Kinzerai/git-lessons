@@ -67,4 +67,17 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 __*Text*__ (bold italic)
 
+## Links
+
+To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.
+
+To create link use [Geekbrains](https://gb.ru/). 
+
+
+## Images
+To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. 
+
+
+![markdown logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
 
