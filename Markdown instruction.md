@@ -29,3 +29,12 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 + Second
 + etc
 
+## Ordered lists:
+To create an ordered list, add line items with numbers followed by periods.
+
+1. First
+2. Second
+3. Third
+4. etc
+
+
