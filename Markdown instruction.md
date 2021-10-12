@@ -55,5 +55,12 @@ To italicize text, add one asterisk or underscore before and after a word or phr
 
 _Italicized text 2._
 
+## Strikethrough text:
+
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+~~Strikethrough text~~.
+
+
 
 
