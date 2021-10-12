@@ -37,4 +37,17 @@ To create an ordered list, add line items with numbers followed by periods.
 3. Third
 4. etc
 
+## Bold text:
+To bold text, add two asterisks or underscores before and after a word or phrase. 
+
+**Full text is bold.** 
+
+__Full text is bold another option.__
+
+Partially **bold**.
+
+One more option of __partially bold__.
+
+
+
 
