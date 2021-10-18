@@ -81,3 +81,4 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 ![markdown logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 
+Переносим док в github
