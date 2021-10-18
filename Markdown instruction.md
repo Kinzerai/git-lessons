@@ -82,3 +82,5 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 
 Переносим док в github
+
+Файл перенесся успешно. Теперь дополняем и отправляем его обратно на локальный депозитарий. 
